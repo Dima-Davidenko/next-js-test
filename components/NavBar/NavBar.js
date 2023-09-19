@@ -1,4 +1,4 @@
-import Applink from "../AppLink/Applink.js";
+import Applink from "../AppLink/Applink";
 import css from "./NavBar.module.css";
 
 const NavBar = () => {
